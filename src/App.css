@@ -1,0 +1,424 @@
+.intro2
+{
+	color: #800000;
+	font-size: 30px;
+	text-align: center;
+
+}
+.intro3
+{
+	color: #800000;
+	font-size: 30px;
+	text-align: center;
+
+}
+
+.my-class1
+{
+	color: white;
+	background-color: #65CD00;
+	height: 600px;
+	
+}
+.my-container01in
+{
+	background-color: #800000;
+}
+
+
+.my-container
+{
+	background-image: url(images/keyboard.jpg);
+    background-position: center;
+    background-size: cover;
+	
+}
+.my-row3
+{
+	background-color: white;
+
+}
+.list2
+{
+	color: white;
+	font-size: 20px;
+
+
+}
+#list3 ul li
+{
+	display: inline-block;
+	margin-left: 5%;
+	margin-top: 10px;
+}
+
+.intro1
+{
+	color: #800000;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+.introin1
+{
+	font-size: 30px;
+	color: white;
+	text-align: left;
+	margin-top: 10px;
+
+}
+.infoh1
+{
+	color: #800000;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 60px;
+}
+
+.buttonin1
+{
+	width: 70%;
+    margin-left: 16%;
+    margin-right: 10%;
+    margin-top: 10px;
+    background-color: #800000;
+}
+.buttonin2
+{
+	width: 70%;
+    margin-left: 16%;
+    margin-right: 10%;
+    margin-top: 10px;
+    background-color: #66645E;
+
+}
+
+.imentr1
+{
+	margin-top: 50px;
+}
+
+.footer1
+{
+	color: grey;
+	text-align: center;
+	font-size: 15px;
+}
+
+
+#info2 .infoh1
+{
+	display: inline-block;
+}
+#info3
+{
+	display: inline-block;
+	margin-top: 420px;
+	margin-left: 150px;
+}
+#info4i .infoh1
+{
+	display: inline-block;
+}
+#info5i
+{
+	display: inline-block;
+	margin-left: 500px;
+}
+
+
+
+
+
+
+
+h2
+{
+	color: white;
+	font-size: 25px;
+	text-align: left;
+	height: 100px;
+}
+.my-container1
+{
+	background-color: #0388FC;
+	height: 150px;
+}
+#menu ul li
+{
+	display: inline-block;
+
+}
+.list1
+{
+	color: white;
+}
+.my-container2
+{
+	background-color: #0388FC;
+	height: 450px;
+}
+h3
+{
+    color: white;
+	font-size: 40px;
+	text-align: center;
+	height: 100px;	
+}
+.description1
+{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	height: 100px;
+}
+.service1
+{
+	color: white;
+	text-align: center;
+}
+.features1
+{
+	color: solid black;
+	text-align: center;
+	margin-top: 20px;
+}
+.mycol21s
+{
+	margin-top: -80px;
+
+}
+.mycols22s
+{
+	margin-top: -80px;
+}
+.my-container3
+{
+	height: 550px;
+}
+.my-container4
+{
+	height: 50px;
+}
+.feats
+{
+	color: #0388FC; 
+}
+.footer
+{
+	text-align: right;
+	color: grey;
+}
+
+
+
+.my-col1c
+{
+	background-color: rgba(0, 0, 0, 0.3);
+	height: 900px;
+}
+.contactheader
+{
+    font-size: 45px;
+    font-weight: 20px;
+    text-align: center;
+    margin-top: 20px;	
+}
+.my-container5c
+{
+	background-image: url(images/contact1.jpg);
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+}
+#infoc0
+{
+	color: grey;
+	background-color: rgba(255, 255, 255, 0.3);
+    border: 1px solid white;
+    margin-top: 100px; 
+    padding: 20px; 
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.infoc1
+{
+	color: #323a40; 
+	font-size:20px;
+	text-align:justify;
+}
+#menu1c
+{
+	color: #323a40; 
+	font-size:20px;
+	
+}
+.list3c
+{
+	color: white;
+	font-size: 20px;
+	text-align: left;
+}
+#list0c
+{
+	margin-top: 60px;
+}
+
+
+
+
+#list3g ul li
+{
+	display: inline-block;
+}
+
+.list1g
+{
+	color: white;
+	font-size: 20px;
+}
+.my-container1g
+{
+	background-image: url(images/chess11.jpg);
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.galleryheader1
+{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 100px;
+}
+.galleryheader2
+{
+	color: white;
+	text-align: center;
+	font-size: 120px;
+	margin-top: 50px;
+}
+.mycolg3
+{
+	padding-left: 160px;
+}
+.infog1
+{
+	color: solid black ;
+	text-align: center;
+	font-size: 35px;
+	margin-top: 50px;
+}
+.infog2
+{
+	color: solid black;
+	text-align: center;
+	font-size: 25px;
+}
+.imgg1
+{
+	color: solid black;
+	text-align: center;
+}
+.mycolg4
+{
+	align-items: center;
+
+}
+
+.my-container2g
+{
+	background-color: rgba(217,155,11,0.5);
+}
+.my-container3g
+{
+	
+	background-color: rgba(217,155,11,0.5);
+
+}
+.my-container4g
+{
+	background-color: rgba(217,155,11,0.5);
+}
+.img-g4
+{
+	height: 180px;
+	width: 300px;
+	margin-left: 27px;
+}
+.infog3
+{
+	color: solid black;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+.registerheader
+{
+	color: solid black;
+	font-size: 40px;
+	text-align: center;
+}
+.registerinfo1
+{
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+}
+
+.containerreg0
+{
+	background: rgba(217,155,11,0.5);
+	position: justify;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 20px;
+}
+
+.login1
+{
+	color: white;
+	text-align: right;
+	font-size: 15px;
+
+
+}
+.my-row1
+{
+	background-color: #800000;
+	padding-left: 1310px;
+}
+hr
+{
+	background-color: white;
+}
+.introi1
+{
+	padding-top: -20px;
+}
+.my-row4
+{
+	background-color: white;
+	height: 40px;
+}
+.intro4
+{
+	color: #66645E;
+	font-size: 35px;
+	text-align: center;
+}
+.imentr2
+{
+	margin-top: -18px;
+}
+.dep1
+{	
+	color: white;
+}
